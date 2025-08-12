@@ -9,4 +9,4 @@ def sorteio():
     media = sum(numeros) / len(numeros)
     return f"Números sorteados: {numeros}, Média: {media:.2f}"
 
-sorteio()
+print(sorteio())
